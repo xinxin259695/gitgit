@@ -2,4 +2,4 @@ name:yinxiaoxin
 age:23
 sex:man
 location:weifang
-version:5.0大萨达速度阿萨德啊阿达
+version:5.0
